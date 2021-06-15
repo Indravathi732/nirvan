@@ -1,0 +1,218 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.a{
+  background-image: url("images/a.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.b{
+  background-image: url("images/b.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.c {
+  background-image: url("images/c.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.d{
+  background-image: url("images/d.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.e {
+  background-image: url("images/e.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.f {
+  background-image: url("images/f.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.g {
+  background-image: url("images/g.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.h {
+  background-image: url("images/h.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.i {
+  background-image: url("images/i.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.j {
+  background-image: url("images/j.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.k{
+  background-image: url("images/k.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.l {
+  background-image: url("images/l.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.m {
+  background-image: url("images/m.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.n {
+  background-image: url("images/n.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.o {
+  background-image: url("images/o.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.p {
+  background-image: url("images/p.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.q {
+  background-image: url("images/q.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.r {
+  background-image: url("images/r.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.s {
+  background-image: url("images/s.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.t {
+  background-image: url("images/t.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.u {
+  background-image: url("images/u.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.v {
+  background-image: url("images/v.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.w {
+  background-image: url("images/w.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.x {
+  background-image: url("images/x.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.y {
+  background-image: url("images/y.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+.z {
+  background-image: url("images/z.jpeg");
+  background-repeat: no-repeat;
+ background-size: 510px 295px;
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  /* color: #DA0463; */
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: top-left;
+  margin: 10px;
+  background-color:#404B69 ;
+  /* //margin-bottom: 75px; */
+  width: 530px;
+  height: 315px;
+  margin: 0 38px 75px 35px;
+  }
+
+
+img
+{
+
+  width: 500px;
+  height: 293px;
+  object-fit: cover;
+
+}
+
+
+@media (max-width:900px) {
+
+.drum{
+
+  background-repeat: no-repeat;
+ /* background-size: 510px 295px; */
+ background-size: 390px 195px;
+ width: 410px;
+ height:195px;
+margin-bottom: 30px;
+}
+
+h1
+{
+  font-size: 2rem;
+}
+
+
+}
+
+/* .a.c.e.g.i.k.m.o.q.s.u.w.y
+{
+  margin-left: 75px;
+} */
